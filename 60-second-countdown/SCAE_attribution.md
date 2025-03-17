@@ -1,21 +1,21 @@
-Images:
+Textures:
 
 [texture-grunge-fracture-cracked][1] by [PellissierJP][2] from [Pixabay][3] under the [Pixabay Content License][4]
 
-// LINKS //
+<!-- // LINKS // -->
 
-Photos:
+<!-- Textures: -->
 
 [1]: https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1874580
 
-Authors: 
+<!-- Authors: --> 
 
 [2]: https://pixabay.com/users/pellissierjp-785732/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1874580
 
-Providers:
+<!-- Providers: -->
 
 [3]: https://pixabay.com/
 
-Licenses:
+<!-- Licenses: -->
 
 [4]: https://pixabay.com/service/license-summary/
