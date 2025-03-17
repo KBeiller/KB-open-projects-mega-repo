@@ -2,7 +2,7 @@ Reference Images:
 
 [People man flare street riot][1] by [Chris][2] from [Pixabay][3] under the [Content License][4]
 
-[Photograph of a person holding a flare with smoke][5] from [Pexels][6] under the [Pexels License][7]
+[Photograph of a person holding a flare with smoke][5] by [Sergey Platonov][10] from [Pexels][6] under the [Pexels License][7]
 
 Images:
 
@@ -22,6 +22,7 @@ Images:
 
 [2]: https://pixabay.com/users/chris_muschard-12423344/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6942090
 [9]: https://www.pexels.com/@milivigerova/
+[10]: https://www.pexels.com/@sergey-platonov-114873806/
 
 
 <!-- Providers: -->
